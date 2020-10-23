@@ -8,5 +8,4 @@ Faculty affiliated with the Connected_Politics Lab offer various modules within 
 
 | Course        | Instructor      | Last Offered  | Programme | Syllabus |
 | ------------- |:-------------:|  -------------:|  -------------:|  -------------:|
-
-| Quantitative Text Analysis  | Martijn Schoonvelde | Fall 2019  | [MSc Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/)  | [Link](Syllabi/Syllabus_QTA.pdf} |
+| Quantitative Text Analysis  | Martijn Schoonvelde | Fall 2019  | [MSc Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/)  | [Link](Syllabi/Syllabus_QTA.pdf) |
