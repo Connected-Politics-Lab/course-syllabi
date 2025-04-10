@@ -10,8 +10,8 @@ This repository contains course syllabi for modules taught by [Connected_Politic
 
 | Course        | Instructor      | Term  | Programme | Syllabus |
 | ------------- |:-------------:|  -------------:|  -------------:|  -------------:|
-| Introduction to Statistics  | [Stefan Müller](https://muellerstefan.net) | Autumn 2022  | [MSc Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/)  | [Link (PDF)](https://muellerstefan.net/teaching/2022-autumn-introstats.pdf) |
-| Quantitative Text Analysis  | [Stefan Müller](https://muellerstefan.net) | Spring 2024 | [MSc Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/) | [Link (PDF)](Syllabi/Syllabus_QTA.pdf) |
-| Programming for Social Scientists | [Jos Dornschneider-Elkink](https://www.joselkink.net) | Spring 2024 | [MSc Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/) | [Link to course materials](https://www.joselkink.net/PROG-Spring-2024.php) |
-| Applied Data Wrangling and Visualisation | [Stefan Müller](https://muellerstefan.net) | Autumn 2024 | [MSc Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/) | [Link to follow]() |
-| Connected_Politics  | [Joshua Alley](https://joshuaalley.github.io) | Spring 2024 | [MSc Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/) | [Link (PDF)](Syllabi/syllabus-connected-politics.pdf) |
+| Applied Data Wrangling and Visualisation | [Stefan Müller](https://muellerstefan.net) | Autumn 2024 | [MSc Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/) | [Syllabus (PDF)](https://muellerstefan.net/teaching/2024-autumn-adwv.pdf) |
+| Quantitative Text Analysis  | [Stefan Müller](https://muellerstefan.net) | Spring 2025 | [MSc Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/) | [Syllabus (PDF)](https://muellerstefan.net/teaching/2025-spring-qta.pdf) |
+| Programming for Social Scientists | [Jos Dornschneider-Elkink](https://www.joselkink.net) | Spring 2025 | [MSc Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/) | [Link to course materials](https://www.joselkink.net/PROG-Spring-2025.php) |
+| Connected_Politics  | [Joshua Alley](https://joshuaalley.github.io) | Spring 2024 | [MSc Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/) | [Syllabus (PDF)](Syllabi/syllabus-connected-politics.pdf) |
+| Introduction to Statistics  | [Stefan Müller](https://muellerstefan.net) | Autumn 2022  | [MSc Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/)  | [Syllabus (PDF)](https://muellerstefan.net/teaching/2022-autumn-introstats.pdf) |
